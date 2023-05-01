@@ -1,4 +1,4 @@
-# terraform-dev-env
+# Build a Development Environment in AWS with Terraform
 
 In this project, i used vscode to deploy ec2 instance,along with a vpc, Internet gateway, nat-gateway, security groups, etc, that will serve as a remote development environment that can be logged into directly from vscode.
 
