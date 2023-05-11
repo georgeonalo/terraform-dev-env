@@ -10,4 +10,4 @@ I also used aws userdata and local exe provisioner to bootstrap the ec2 instance
 
 ## Dev Env project Overview
 
-![dev env](https://user-images.githubusercontent.com/115881685/235677097-115a340f-5b4b-4eb4-8ac5-c43cdc8e2b51.jpg)
+![Untitled Diagram (6)](https://github.com/georgeonalo/terraform-dev-env/assets/115881685/8cf825b7-2f8a-40a9-b944-bba3fb64a46c)
